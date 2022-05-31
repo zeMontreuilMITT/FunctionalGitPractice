@@ -5,4 +5,9 @@ Console.WriteLine("Hello, World!");
 
 // GitHub is REMOTE
 
-// MASTER BRANCH
+// This is the LAB 2 Branch
+
+string Lab2()
+{
+    return "Hello world";
+}
